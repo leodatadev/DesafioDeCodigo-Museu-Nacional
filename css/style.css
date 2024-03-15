@@ -157,6 +157,7 @@ input {
 
 input.campo {
   border: 1px solid #ada484;
+  width: 98px;
 }
 
 input.botao {
